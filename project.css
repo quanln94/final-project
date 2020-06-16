@@ -1,0 +1,75 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.cover-picture{
+    height: 100px;
+    color: white;
+    background-color: coral;
+    font-size: 30px;
+    margin: auto;
+    text-align: center;
+    line-height: 100px;
+}
+.taskbar{
+    height: 50px;
+    color: black;
+    background-color: yellowgreen;
+    font-size: 30px ;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+}
+.logo{
+    width: 100px;
+    height: 50px;
+    background-color: orchid;
+
+}
+
+.search{
+    width: 500px;
+    height: 50px;
+    background-color: orange;
+}
+.add{
+    width: 500px;
+    height: 50px;
+    background-color: red;
+}
+.log-in{
+    width: 300px;
+    height: 50px;
+    background-color: brown;
+}
+
+
+.main{
+    display: flex;
+    justify-content: space-between;
+}
+
+.pr1{
+    width: 200px;
+    height: 500px;
+    background-color: red;
+    
+}
+
+.pr2{
+    width: 200px;
+    height: 500px;
+    background-color: red;
+    
+}
+.main2{
+    padding-top: 50px;
+    text-align: center;
+    width: 500px;
+    height: 500px;
+    background-color: sandybrown;
+}
